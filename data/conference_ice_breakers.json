@@ -1,0 +1,143 @@
+[
+    {
+      "name": "컨퍼런스 대화 시작",
+      "sentences": [
+        {
+          "korean": "이름이 어떻게 되시나요?",
+          "english": "What's your name?"
+        },
+        {
+          "korean": "저는 존 도입니다.",
+          "english": "I am John Doe."
+        },
+        {
+          "korean": "자주 오시나요?",
+          "english": "Come here often?"
+        },
+        {
+          "korean": "사실 처음입니다.",
+          "english": "First time, actually."
+        },
+        {
+          "korean": "컨퍼런스 즐기고 계신가요?",
+          "english": "Enjoying the conference?"
+        },
+        {
+          "korean": "네, 매우 유익합니다.",
+          "english": "Yes, quite informative."
+        },
+        {
+          "korean": "어디서 오셨나요?",
+          "english": "Where are you from?"
+        },
+        {
+          "korean": "뉴욕에서 왔습니다.",
+          "english": "From New York."
+        },
+        {
+          "korean": "어떤 분야에서 일하시나요?",
+          "english": "What's your field?"
+        },
+        {
+          "korean": "IT 분야에서 일합니다.",
+          "english": "I work in IT."
+        },
+        {
+          "korean": "좋은 강연을 보셨나요?",
+          "english": "Seen any good talks?"
+        },
+        {
+          "korean": "몇 개 흥미로운 강연이 있었습니다.",
+          "english": "A few interesting ones."
+        },
+        {
+          "korean": "좋아하는 연사는 있나요?",
+          "english": "Got a favorite speaker?"
+        },
+        {
+          "korean": "아직 결정하지 못했습니다.",
+          "english": "Still deciding on that."
+        },
+        {
+          "korean": "나중에 뷔페를 시도할 건가요?",
+          "english": "Trying the buffet later?"
+        },
+        {
+          "korean": "아마도, 좋다고 들었습니다.",
+          "english": "Maybe, heard it's good."
+        },
+        {
+          "korean": "워크숍에 참여했나요?",
+          "english": "Attend any workshops?"
+        },
+        {
+          "korean": "네, 어제 두 개 참석했습니다.",
+          "english": "Yes, two yesterday."
+        },
+        {
+          "korean": "여기 왜 오셨나요?",
+          "english": "What brings you here?"
+        },
+        {
+          "korean": "주로 네트워킹을 위해 왔습니다.",
+          "english": "Here to network, mostly."
+        },
+        {
+          "korean": "흥미로운 사람을 만났나요?",
+          "english": "Meet anyone interesting?"
+        },
+        {
+          "korean": "몇몇 연결을 만들었습니다.",
+          "english": "A few, making connections."
+        },
+        {
+          "korean": "얼마나 오래 머무르시나요?",
+          "english": "How long are you staying?"
+        },
+        {
+          "korean": "오늘 밤 떠나야 해서 아쉽습니다.",
+          "english": "Leaving tonight, sadly."
+        },
+        {
+          "korean": "무료 기념품을 챙기셨나요?",
+          "english": "Grabbed any freebies?"
+        },
+        {
+          "korean": "멋진 핀을 몇 개 얻었습니다.",
+          "english": "Got some nice pins."
+        },
+        {
+          "korean": "명함을 교환할까요?",
+          "english": "Exchange business cards?"
+        },
+        {
+          "korean": "물론, 여기 제 명함입니다.",
+          "english": "Sure, here's mine."
+        },
+        {
+          "korean": "도시를 즐기고 계신가요?",
+          "english": "Enjoying the city?"
+        },
+        {
+          "korean": "네, 여기가 아름답습니다.",
+          "english": "Yes, it's beautiful here."
+        },
+        {
+          "korean": "갈라 디너에 참석할 건가요?",
+          "english": "Attend the gala dinner?"
+        },
+        {
+          "korean": "네, 참석할 계획입니다.",
+          "english": "Planning to, yes."
+        },
+        {
+          "korean": "첫 컨퍼런스인가요?",
+          "english": "Your first conference?"
+        },
+        {
+          "korean": "아니요, 여러 번 참석했습니다.",
+          "english": "No, been to many."
+        }
+      ]
+    }
+]

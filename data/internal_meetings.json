@@ -1,0 +1,143 @@
+[
+    {
+      "name": "내부 회의",
+      "sentences": [
+        {
+          "korean": "오늘 의제는 무엇인가요?",
+          "english": "What is our agenda?"
+        },
+        {
+          "korean": "분기별 결과를 논의할 예정입니다.",
+          "english": "Discussing the quarterly results."
+        },
+        {
+          "korean": "프로젝트에 대한 업데이트 있나요?",
+          "english": "Any updates on the project?"
+        },
+        {
+          "korean": "네, 일정보다 앞서 완료되었습니다.",
+          "english": "Yes, completed ahead of schedule."
+        },
+        {
+          "korean": "모두 보고서를 검토했나요?",
+          "english": "Did everyone review the reports?"
+        },
+        {
+          "korean": "아직 검토하지 못해 죄송합니다.",
+          "english": "I haven't, apologies."
+        },
+        {
+          "korean": "주요 문제는 무엇인가요?",
+          "english": "What are the major issues?"
+        },
+        {
+          "korean": "예산 제약과 지연입니다.",
+          "english": "Budget constraints and delays."
+        },
+        {
+          "korean": "새로운 이니셔티브를 누가 이끌나요?",
+          "english": "Who leads the new initiative?"
+        },
+        {
+          "korean": "로라가 맡을 것입니다.",
+          "english": "Laura will handle it."
+        },
+        {
+          "korean": "재정부터 시작할까요?",
+          "english": "Shall we begin with finances?"
+        },
+        {
+          "korean": "네, 예산을 검토합시다.",
+          "english": "Yes, let's review the budget."
+        },
+        {
+          "korean": "마감일을 설정할 수 있나요?",
+          "english": "Can we set a deadline?"
+        },
+        {
+          "korean": "다음 달 말입니다.",
+          "english": "End of next month."
+        },
+        {
+          "korean": "현재 전략에 대한 우려 사항이 있나요?",
+          "english": "Any concerns with current strategies?"
+        },
+        {
+          "korean": "마케팅 노력을 더 늘려야 합니다.",
+          "english": "Need more marketing efforts."
+        },
+        {
+          "korean": "어떻게 진행해야 하나요?",
+          "english": "How should we proceed?"
+        },
+        {
+          "korean": "파일럿 테스트부터 시작합시다.",
+          "english": "Start with a pilot test."
+        },
+        {
+          "korean": "클라이언트 피드백이 긍정적이었나요?",
+          "english": "Was the client feedback positive?"
+        },
+        {
+          "korean": "대체로 좋았으나 사소한 문제가 있었습니다.",
+          "english": "Mostly good, few minor issues."
+        },
+        {
+          "korean": "어떤 위험이 있나요?",
+          "english": "What are the risks involved?"
+        },
+        {
+          "korean": "납품 지연 가능성이 있습니다.",
+          "english": "Potential delays in delivery."
+        },
+        {
+          "korean": "이해관계자들에게 정보가 전달되었나요?",
+          "english": "Are the stakeholders informed?"
+        },
+        {
+          "korean": "오늘 업데이트될 것입니다.",
+          "english": "They will be updated today."
+        },
+        {
+          "korean": "다음 회의는 언제인가요?",
+          "english": "When is the next meeting?"
+        },
+        {
+          "korean": "다음 주 같은 시간입니다.",
+          "english": "Same time next week."
+        },
+        {
+          "korean": "마지막 의견 있나요?",
+          "english": "Any final thoughts?"
+        },
+        {
+          "korean": "제 입장에서는 모두 괜찮습니다.",
+          "english": "All good on my end."
+        },
+        {
+          "korean": "회의를 종료할까요?",
+          "english": "Shall we adjourn?"
+        },
+        {
+          "korean": "네, 회의가 종료되었습니다.",
+          "english": "Yes, meeting concluded."
+        },
+        {
+          "korean": "회의록은 누가 작성하나요?",
+          "english": "Who takes the minutes?"
+        },
+        {
+          "korean": "이번에는 마이크가 자원했습니다.",
+          "english": "Mike volunteered this time."
+        },
+        {
+          "korean": "액션 플랜이 명확한가요?",
+          "english": "Is the action plan clear?"
+        },
+        {
+          "korean": "완전히 명확하며 모두가 자신의 업무를 알고 있습니다.",
+          "english": "Absolutely, everyone knows their tasks."
+        }
+      ]
+    }
+]

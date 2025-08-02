@@ -1,0 +1,139 @@
+[
+    {
+      "name": "회사 소개",
+      "sentences": [
+        {
+          "korean": "안녕하세요, 저희는 ABC LTD입니다.",
+          "english": "Hello, we are ABC LTD."
+        },
+        {
+          "korean": "귀사는 어떤 일을 하나요?",
+          "english": "What does your company do?"
+        },
+        {
+          "korean": "우리는 웹 솔루션을 제공합니다.",
+          "english": "We provide web solutions."
+        },
+        {
+          "korean": "귀사는 어디에 위치해 있나요?",
+          "english": "Where is your company located?"
+        },
+        {
+          "korean": "본사는 뉴욕에 있습니다.",
+          "english": "Our headquarters is in New York."
+        },
+        {
+          "korean": "ABC는 언제 설립되었나요?",
+          "english": "How long has ABC existed?"
+        },
+        {
+          "korean": "2005년에 시작했습니다.",
+          "english": "We started in 2005."
+        },
+        {
+          "korean": "핵심 가치는 무엇인가요?",
+          "english": "What are your core values?"
+        },
+        {
+          "korean": "혁신, 성실, 커뮤니티입니다.",
+          "english": "Innovation, integrity, and community."
+        },
+        {
+          "korean": "글로벌 사무소가 있나요?",
+          "english": "Do you have global offices?"
+        },
+        {
+          "korean": "네, 여러 나라에 있습니다.",
+          "english": "Yes, in several countries."
+        },
+        {
+          "korean": "주요 고객은 누구인가요?",
+          "english": "Who are your main clients?"
+        },
+        {
+          "korean": "주로 테크 기업들을 대상으로 합니다.",
+          "english": "We serve mainly tech companies."
+        },
+        {
+          "korean": "회사에 대한 추가 정보를 보내줄 수 있나요?",
+          "english": "Can you send more company details?"
+        },
+        {
+          "korean": "네, 프로필을 이메일로 보내겠습니다.",
+          "english": "Yes, I'll email our profile."
+        },
+        {
+          "korean": "현재 채용 중인가요?",
+          "english": "Are you hiring currently?"
+        },
+        {
+          "korean": "네, 주로 개발 직원을 채용 중입니다.",
+          "english": "Yes, primarily in development."
+        },
+        {
+          "korean": "무역 박람회에 참석하나요?",
+          "english": "Do you attend trade shows?"
+        },
+        {
+          "korean": "네, 주요 행사에 매년 참석합니다.",
+          "english": "Yes, annually at major events."
+        },
+        {
+          "korean": "고객 지원 서비스가 있나요?",
+          "english": "Do you have customer support?"
+        },
+        {
+          "korean": "24시간 전화 및 온라인 지원이 있습니다.",
+          "english": "24/7 phone and online support."
+        },
+        {
+          "korean": "귀사를 차별화하는 점은 무엇인가요?",
+          "english": "What sets your company apart?"
+        },
+        {
+          "korean": "맞춤화와 고객 서비스입니다.",
+          "english": "Our customization and client service."
+        },
+        {
+          "korean": "다른 회사와 파트너십을 맺나요?",
+          "english": "Do you partner with others?"
+        },
+        {
+          "korean": "네, 선도적인 소프트웨어 회사들과 협력합니다.",
+          "english": "Yes, with leading software companies."
+        },
+        {
+          "korean": "귀사는 친환경적인가요?",
+          "english": "Is your company eco-friendly?"
+        },
+        {
+          "korean": "우리는 친환경 프로토콜을 따릅니다.",
+          "english": "We follow green protocols."
+        },
+        {
+          "korean": "주식 시장에 상장되어 있나요?",
+          "english": "Are you listed on any street?"
+        },
+        {
+          "korean": "네, 뉴욕 증권 거래소에 상장되어 있습니다.",
+          "english": "Yes, on the New York Stock Exchange."
+        },
+        {
+          "korean": "최근 회사 성과는 무엇인가요?",
+          "english": "Any recent company achievements?"
+        },
+        {
+          "korean": "작년에 최고 스타트업 상을 수상했습니다.",
+          "english": "Awarded best startup last year."
+        },
+        {
+          "korean": "리뷰는 어디서 읽을 수 있나요?",
+          "english": "Where can I read reviews?"
+        },
+        {
+          "korean": "웹사이트의 고객 후기 섹션을 확인하세요.",
+          "english": "Check our website's testimonial section."
+        }
+      ]
+    }
+]

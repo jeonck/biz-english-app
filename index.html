@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>비즈니스 영어 학습</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="theme-color" content="#000000">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="manifest" href="manifest.json">
+    <meta name="mobile-web-app-capable" content="yes">
+</head>
+<body>
+    <div class="container">
+        <!-- 시작 화면 -->
+        <div class="start-screen" id="startScreen">
+            <div>
+                <h1 class="title">비즈니스 영어 학습</h1>
+                <p class="subtitle">미국 회사에서 자주 사용하는 표현들을 학습하세요</p>
+            </div>
+            
+            <div class="category-selection">
+                <h3>학습할 카테고리를 선택하세요</h3>
+                <div class="category-grid" id="categoryGrid">
+                    <!-- JavaScript로 동적 생성 -->
+                </div>
+                <button class="category-btn all-category" onclick="startLearning('all')">
+                    전체 카테고리 학습
+                </button>
+            </div>
+            
+            <div class="instructions">
+                <h4>학습 방법</h4>
+                <p>1. 한글 문장 3초 보기 (영어로 떠올려보세요)</p>
+                <p>2. 영어 정답 2초 보기</p>
+                <p>3. 영어 문장 3초 더 보기 (복습)</p>
+            </div>
+        </div>
+
+        <!-- 학습 화면 -->
+        <div class="learning-screen" id="learningScreen">
+            <div class="phase-indicator" id="phaseIndicator">준비 중...</div>
+            
+            <div class="sentence-display" id="sentenceDisplay">
+                <!-- 문장이 여기에 표시됩니다 -->
+            </div>
+            
+            <div class="progress-container">
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progressFill"></div>
+                </div>
+                <div class="progress-text" id="progressText">0 / 0</div>
+            </div>
+            
+            <div class="controls">
+                <button class="control-btn" onclick="pauseResume()" id="pauseBtn">일시정지</button>
+                <button class="control-btn" onclick="skipSentence()">건너뛰기</button>
+                <button class="control-btn" onclick="goHome()">홈으로</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

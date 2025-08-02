@@ -1,0 +1,46 @@
+[
+    {
+      "name": "컨퍼런스에서 질문하기",
+      "sentences": [
+        {
+          "korean": "오늘 일정은 무엇인가요?",
+          "english": "What's the schedule for today?"
+        },
+        {
+          "korean": "세션은 오전 9시에 시작됩니다.",
+          "english": "Sessions start at 9:00 a.m."
+        },
+        {
+          "korean": "유인물을 어디서 찾을 수 있나요?",
+          "english": "Where can we find handouts?"
+        },
+        {
+          "korean": "입구에서 제공됩니다.",
+          "english": "They're available at the entrance."
+        },
+        {
+          "korean": "그 점을 다시 말씀해 주시겠습니까?",
+          "english": "Could you repeat that point?"
+        },
+        {
+          "korean": "물론, 다시 설명드리겠습니다.",
+          "english": "Certainly, let me go over it."
+        },
+        {
+          "korean": "다음 연사는 누구인가요?",
+          "english": "Who's the next speaker?"
+        },
+        {
+          "korean": "스미스 박사가 다음으로 연설합니다.",
+          "english": "Dr. Smith will speak next."
+        },
+        {
+          "korean": "질문과 답변 세션이 있나요?",
+          "english": "Is there a Q&A session?"
+        },
+        {
+          "korean": "네, 강연 직후에 있습니다.",
+          "english": "Yes, right after the talk."
+        },
+        {
+          "korean": "

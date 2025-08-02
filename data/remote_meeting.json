@@ -1,0 +1,151 @@
+[
+    {
+      "name": "원격 회의",
+      "sentences": [
+        {
+          "korean": "모두 제 목소리가 들리나요?",
+          "english": "Can everyone hear me?"
+        },
+        {
+          "korean": "네, 잘 들립니다.",
+          "english": "Yes, I can hear you."
+        },
+        {
+          "korean": "제 화면이 보이나요?",
+          "english": "Is my screen visible?"
+        },
+        {
+          "korean": "화면이 잘 보입니다.",
+          "english": "The screen is visible."
+        },
+        {
+          "korean": "다시 말씀해 주시겠습니까?",
+          "english": "Can you repeat that?"
+        },
+        {
+          "korean": "물론, 다시 말씀드리겠습니다.",
+          "english": "Sure, I can repeat that."
+        },
+        {
+          "korean": "지금까지 질문 있으신가요?",
+          "english": "Any questions so far?"
+        },
+        {
+          "korean": "지금까지 질문 없습니다.",
+          "english": "No questions so far."
+        },
+        {
+          "korean": "시작할 준비 되셨나요?",
+          "english": "Are we ready to begin?"
+        },
+        {
+          "korean": "네, 준비되었습니다.",
+          "english": "Yes, we are ready."
+        },
+        {
+          "korean": "제 프레젠테이션이 보이나요?",
+          "english": "Can you see my presentation?"
+        },
+        {
+          "korean": "프레젠테이션이 명확하게 보입니다.",
+          "english": "The presentation is clear."
+        },
+        {
+          "korean": "연결 상태가 안정적인가요?",
+          "english": "Is the connection stable?"
+        },
+        {
+          "korean": "네, 연결 상태가 좋습니다.",
+          "english": "Yes, the connection is good."
+        },
+        {
+          "korean": "마이크를 음소거해 주시겠습니까?",
+          "english": "Can you mute your mic?"
+        },
+        {
+          "korean": "마이크를 음소거하겠습니다.",
+          "english": "I will mute my mic."
+        },
+        {
+          "korean": "오디오에 문제 있나요?",
+          "english": "Any issues with audio?"
+        },
+        {
+          "korean": "오디오에 문제 없습니다.",
+          "english": "No issues with audio."
+        },
+        {
+          "korean": "그 점을 명확히 설명해 주시겠습니까?",
+          "english": "Can you clarify that?"
+        },
+        {
+          "korean": "명확히 설명드리겠습니다.",
+          "english": "I can clarify that."
+        },
+        {
+          "korean": "일정대로 진행되고 있나요?",
+          "english": "Are we on schedule?"
+        },
+        {
+          "korean": "네, 일정대로 진행되고 있습니다.",
+          "english": "Yes, we are on schedule."
+        },
+        {
+          "korean": "지금 시작할 수 있나요?",
+          "english": "Can we start now?"
+        },
+        {
+          "korean": "지금 시작할 수 있습니다.",
+          "english": "We can start now."
+        },
+        {
+          "korean": "모두 통화에 참여했나요?",
+          "english": "Is everyone on the call?"
+        },
+        {
+          "korean": "모두 참여했습니다.",
+          "english": "Everyone is on the call."
+        },
+        {
+          "korean": "업데이트를 제공해 줄 수 있나요?",
+          "english": "Can you provide updates?"
+        },
+        {
+          "korean": "업데이트를 제공하겠습니다.",
+          "english": "I will provide updates."
+        },
+        {
+          "korean": "지금까지 피드백 있나요?",
+          "english": "Any feedback so far?"
+        },
+        {
+          "korean": "지금까지 피드백 없습니다.",
+          "english": "No feedback so far."
+        },
+        {
+          "korean": "세부사항을 이메일로 보내줄 수 있나요?",
+          "english": "Can you email the details?"
+        },
+        {
+          "korean": "세부사항을 이메일로 보내겠습니다.",
+          "english": "I will email the details."
+        },
+        {
+          "korean": "비디오가 잘 작동하나요?",
+          "english": "Is the video working?"
+        },
+        {
+          "korean": "비디오가 잘 작동합니다.",
+          "english": "The video is working fine."
+        },
+        {
+          "korean": "내일에 대해 논의할 수 있나요?",
+          "english": "Can we discuss tomorrow?"
+        },
+        {
+          "korean": "내일에 대해 논의할 수 있습니다.",
+          "english": "We can discuss tomorrow."
+        }
+      ]
+    }
+]

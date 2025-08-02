@@ -1,0 +1,159 @@
+[
+    {
+      "name": "외부 회의",
+      "sentences": [
+        {
+          "korean": "지금 시작할 수 있나요?",
+          "english": "Can we start now?"
+        },
+        {
+          "korean": "네, 회의를 시작합시다.",
+          "english": "Yes, let's begin the meeting."
+        },
+        {
+          "korean": "보고서 있으신가요?",
+          "english": "Do you have the report?"
+        },
+        {
+          "korean": "네, 여기 있습니다.",
+          "english": "Yes, it's right here."
+        },
+        {
+          "korean": "좀 더 크게 말씀해 주시겠습니까?",
+          "english": "Could you speak louder?"
+        },
+        {
+          "korean": "이제 나아졌나요?",
+          "english": "Sure, is this better?"
+        },
+        {
+          "korean": "오늘 의제는 무엇인가요?",
+          "english": "What is the agenda today?"
+        },
+        {
+          "korean": "프로젝트 업데이트를 논의할 것입니다.",
+          "english": "We will discuss project updates."
+        },
+        {
+          "korean": "프로젝트에 대한 업데이트 있나요?",
+          "english": "Any updates on the project?"
+        },
+        {
+          "korean": "네, 잘 진행되고 있습니다.",
+          "english": "Yes, it's progressing well."
+        },
+        {
+          "korean": "우려 사항이 있나요?",
+          "english": "Do you have any concerns?"
+        },
+        {
+          "korean": "아니요, 모든 것이 괜찮아 보입니다.",
+          "english": "No, everything seems fine."
+        },
+        {
+          "korean": "회의를 재조정할 수 있나요?",
+          "english": "Can we reschedule the meeting?"
+        },
+        {
+          "korean": "내일 아침은 어떠신가요?",
+          "english": "Yes, how about tomorrow morning?"
+        },
+        {
+          "korean": "그 점을 명확히 설명해 주시겠습니까?",
+          "english": "Could you clarify that point?"
+        },
+        {
+          "korean": "물론, 다시 설명드리겠습니다.",
+          "english": "Sure, let me explain it again."
+        },
+        {
+          "korean": "지금까지 질문 있나요?",
+          "english": "Any questions so far?"
+        },
+        {
+          "korean": "모든 것이 명확합니다.",
+          "english": "No, everything is clear."
+        },
+        {
+          "korean": "마지막 부분을 다시 말씀해 주시겠습니까?",
+          "english": "Could you repeat the last part?"
+        },
+        {
+          "korean": "물론, 다시 말씀드리겠습니다.",
+          "english": "Of course, let me repeat it."
+        },
+        {
+          "korean": "프로젝트가 어떻게 진행되고 있나요?",
+          "english": "How is the project going?"
+        },
+        {
+          "korean": "계획대로 진행되고 있습니다.",
+          "english": "It is going as planned."
+        },
+        {
+          "korean": "다음 단계는 무엇인가요?",
+          "english": "What are the next steps?"
+        },
+        {
+          "korean": "디자인을 최종 확정해야 합니다.",
+          "english": "We need to finalize the design."
+        },
+        {
+          "korean": "마감일은 언제인가요?",
+          "english": "When is the deadline?"
+        },
+        {
+          "korean": "마감일은 다음 금요일입니다.",
+          "english": "The deadline is next Friday."
+        },
+        {
+          "korean": "다른 의견 있나요?",
+          "english": "Any other comments?"
+        },
+        {
+          "korean": "아니요, 그게 전부인 것 같습니다.",
+          "english": "No, I think that's all."
+        },
+        {
+          "korean": "사본을 받을 수 있나요?",
+          "english": "Can I get a copy?"
+        },
+        {
+          "korean": "네, 이메일로 보내드리겠습니다.",
+          "english": "Yes, I'll email it to you."
+        },
+        {
+          "korean": "다른 회의가 있나요?",
+          "english": "Will there be another meeting?"
+        },
+        {
+          "korean": "네, 다음 회의는 다음 달입니다.",
+          "english": "Yes, next meeting is next month."
+        },
+        {
+          "korean": "더 일찍 만날 수 있나요?",
+          "english": "Can we meet earlier?"
+        },
+        {
+          "korean": "어떤 시간이 맞으신가요?",
+          "english": "Sure, what time suits you?"
+        },
+        {
+          "korean": "판매 실적은 어떠한가요?",
+          "english": "How are the sales figures?"
+        },
+        {
+          "korean": "실적이 꾸준히 향상되고 있습니다.",
+          "english": "The figures are improving steadily."
+        },
+        {
+          "korean": "진행할 수 있나요?",
+          "english": "Can we proceed?"
+        },
+        {
+          "korean": "네, 계속 진행해 주세요.",
+          "english": "Yes, go ahead please."
+        }
+      ]
+    }
+]

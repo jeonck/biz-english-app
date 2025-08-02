@@ -1,0 +1,143 @@
+[
+    {
+      "name": "컨퍼런스",
+      "sentences": [
+        {
+          "korean": "제 목소리가 들리나요?",
+          "english": "Can you hear me?"
+        },
+        {
+          "korean": "네, 잘 들립니다.",
+          "english": "Yes, I can hear you."
+        },
+        {
+          "korean": "일정은 어디서 확인하나요?",
+          "english": "Where's the schedule?"
+        },
+        {
+          "korean": "컨퍼런스 앱에서 확인할 수 있습니다.",
+          "english": "It's on the conference app."
+        },
+        {
+          "korean": "다음 연사는 누구인가요?",
+          "english": "Who's the next speaker?"
+        },
+        {
+          "korean": "스미스 박사가 다음으로 연설합니다.",
+          "english": "Dr. Smith will speak next."
+        },
+        {
+          "korean": "곧 휴식 시간이 있나요?",
+          "english": "Is there a break soon?"
+        },
+        {
+          "korean": "네, 10분 후입니다.",
+          "english": "Yes, in 10 minutes."
+        },
+        {
+          "korean": "질문해도 될까요?",
+          "english": "Can I ask a question?"
+        },
+        {
+          "korean": "질문을 진행해 주세요.",
+          "english": "Please go ahead and ask."
+        },
+        {
+          "korean": "화장실은 어디인가요?",
+          "english": "Where's the restroom, please?"
+        },
+        {
+          "korean": "복도를 따라 왼쪽에 있습니다.",
+          "english": "Down the hall to the left."
+        },
+        {
+          "korean": "여기서 와이파이를 사용할 수 있나요?",
+          "english": "Is there Wi-Fi here?"
+        },
+        {
+          "korean": "비밀번호는 게시판에 있습니다.",
+          "english": "Yes, the password is on the board."
+        },
+        {
+          "korean": "행사가 언제 끝나나요?",
+          "english": "What time does it end?"
+        },
+        {
+          "korean": "오후 5시에 끝납니다.",
+          "english": "It finishes at 5:00 p.m."
+        },
+        {
+          "korean": "물을 좀 마실 수 있을까요?",
+          "english": "May I get some water?"
+        },
+        {
+          "korean": "물은 밖에 준비되어 있습니다.",
+          "english": "Water is available outside."
+        },
+        {
+          "korean": "사진을 찍어도 되나요?",
+          "english": "Can we take a photo?"
+        },
+        {
+          "korean": "물론, 지금 찍읍시다.",
+          "english": "Of course, let's take it now."
+        },
+        {
+          "korean": "명함 있으신가요?",
+          "english": "Do you have a card?"
+        },
+        {
+          "korean": "네, 여기 제 명함입니다.",
+          "english": "Yes, here is my business card."
+        },
+        {
+          "korean": "다시 말씀해 주시겠습니까?",
+          "english": "Can you repeat that, please?"
+        },
+        {
+          "korean": "물론, 다시 말씀드리겠습니다.",
+          "english": "Sure, I'll say it again."
+        },
+        {
+          "korean": "이 자리가 사용 중인가요?",
+          "english": "Is this seat taken?"
+        },
+        {
+          "korean": "아니요, 여기 앉으셔도 됩니다.",
+          "english": "No, you can sit here."
+        },
+        {
+          "korean": "추천하는 세션이 있나요?",
+          "english": "What sessions are recommended?"
+        },
+        {
+          "korean": "프로그램 가이드를 확인하세요.",
+          "english": "Check the program guide."
+        },
+        {
+          "korean": "점심이 포함되어 있나요?",
+          "english": "Is lunch included?"
+        },
+        {
+          "korean": "네, 메인 홀에서 제공됩니다.",
+          "english": "Yes, it's in the main hall."
+        },
+        {
+          "korean": "로그인은 어떻게 하나요?",
+          "english": "How do I log in?"
+        },
+        {
+          "korean": "등록한 이메일을 사용하세요.",
+          "english": "Use the email you registered with."
+        },
+        {
+          "korean": "철자를 알려주시겠습니까?",
+          "english": "Could you spell that?"
+        },
+        {
+          "korean": "물론, S-M-I-T-H입니다.",
+          "english": "Sure, S-M-I-T-H."
+        }
+      ]
+    }
+]

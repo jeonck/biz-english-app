@@ -1,0 +1,175 @@
+[
+    {
+      "name": "출장",
+      "sentences": [
+        {
+          "korean": "비행기 출발 시간이 언제인가요?",
+          "english": "When's our flight departure?"
+        },
+        {
+          "korean": "비행기는 오후 5시에 출발합니다.",
+          "english": "The flight departs at 5:00 p.m."
+        },
+        {
+          "korean": "택시가 필요하시나요?",
+          "english": "Do you need a taxi?"
+        },
+        {
+          "korean": "네, 택시를 불러주세요.",
+          "english": "Yes, please call a taxi."
+        },
+        {
+          "korean": "호텔은 어디에 있나요?",
+          "english": "Where is the hotel located?"
+        },
+        {
+          "korean": "도심 근처에 있습니다.",
+          "english": "It's near the downtown area."
+        },
+        {
+          "korean": "예약이 있으신가요?",
+          "english": "Do you have a reservation?"
+        },
+        {
+          "korean": "네, 예약이 있습니다.",
+          "english": "Yes, I have a booking."
+        },
+        {
+          "korean": "공항까지 얼마나 멀리 있나요?",
+          "english": "How far is the airport?"
+        },
+        {
+          "korean": "30분 거리입니다.",
+          "english": "It's 30 minutes away."
+        },
+        {
+          "korean": "숙박을 확인해 줄 수 있나요?",
+          "english": "Can you confirm my stay?"
+        },
+        {
+          "korean": "숙박이 확인되었습니다.",
+          "english": "Your stay is confirmed."
+        },
+        {
+          "korean": "조식이 포함되어 있나요?",
+          "english": "Is breakfast included?"
+        },
+        {
+          "korean": "네, 조식이 포함되어 있습니다.",
+          "english": "Yes, breakfast is included."
+        },
+        {
+          "korean": "회의는 언제인가요?",
+          "english": "When is the meeting?"
+        },
+        {
+          "korean": "회의는 오전 10시에 있습니다.",
+          "english": "The meeting is at 10:00 a.m."
+        },
+        {
+          "korean": "지도 있으신가요?",
+          "english": "Do you have a map?"
+        },
+        {
+          "korean": "네, 여기 지도 있습니다.",
+          "english": "Yes, here is a map."
+        },
+        {
+          "korean": "가장 가까운 식당은 어디인가요?",
+          "english": "Where's the nearest restaurant?"
+        },
+        {
+          "korean": "근처에 하나 있습니다.",
+          "english": "There's one nearby."
+        },
+        {
+          "korean": "여기서 와이파이를 사용할 수 있나요?",
+          "english": "Can I get Wi-Fi here?"
+        },
+        {
+          "korean": "네, 와이파이가 제공됩니다.",
+          "english": "Yes, Wi-Fi is available."
+        },
+        {
+          "korean": "체크아웃 시간은 언제인가요?",
+          "english": "What's the checkout time?"
+        },
+        {
+          "korean": "체크아웃은 정오입니다.",
+          "english": "Checkout is at noon."
+        },
+        {
+          "korean": "룸서비스가 있나요?",
+          "english": "Is there room service?"
+        },
+        {
+          "korean": "네, 룸서비스가 제공됩니다.",
+          "english": "Yes, room service is available."
+        },
+        {
+          "korean": "회의실은 어디에 있나요?",
+          "english": "Where is the conference room?"
+        },
+        {
+          "korean": "2층에 있습니다.",
+          "english": "It's on the second floor."
+        },
+        {
+          "korean": "송장을 받을 수 있나요?",
+          "english": "Can I get an invoice?"
+        },
+        {
+          "korean": "네, 여기 송장 있습니다.",
+          "english": "Yes, here's your invoice."
+        },
+        {
+          "korean": "이 자리가 사용 중인가요?",
+          "english": "Is this seat taken?"
+        },
+        {
+          "korean": "아니요, 여기 앉으셔도 됩니다.",
+          "english": "No, you can sit here."
+        },
+        {
+          "korean": "거스름돈 있으신가요?",
+          "english": "Do you have change?"
+        },
+        {
+          "korean": "네, 거스름돈 있습니다.",
+          "english": "Yes, I have change."
+        },
+        {
+          "korean": "길 안내를 받을 수 있나요?",
+          "english": "Can I get directions?"
+        },
+        {
+          "korean": "네, 어디로 가시고 싶으신가요?",
+          "english": "Yes, where do you need directions?"
+        },
+        {
+          "korean": "환율이 얼마인가요?",
+          "english": "What's the exchange rate?"
+        },
+        {
+          "korean": "유로당 1.2달러입니다.",
+          "english": "It's $1.2 per Euro."
+        },
+        {
+          "korean": "여기에 체육관이 있나요?",
+          "english": "Is there a gym here?"
+        },
+        {
+          "korean": "네, 체육관이 열려 있습니다.",
+          "english": "Yes, the gym is open."
+        },
+        {
+          "korean": "셔틀 서비스를 제공하나요?",
+          "english": "Do you offer shuttle service?"
+        },
+        {
+          "korean": "네, 셔틀 서비스가 제공됩니다.",
+          "english": "Yes, shuttle service is offered."
+        }
+      ]
+    }
+]

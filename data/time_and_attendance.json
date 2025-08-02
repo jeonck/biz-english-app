@@ -1,0 +1,143 @@
+[
+    {
+      "name": "시간 및 출勤 관리",
+      "sentences": [
+        {
+          "korean": "몇 시에 도착했나요?",
+          "english": "What time did you arrive?"
+        },
+        {
+          "korean": "오전 8시에 들어왔습니다.",
+          "english": "I came in at 8:00 a.m."
+        },
+        {
+          "korean": "오늘 모두 출勤 기록을 했나요?",
+          "english": "Did everyone sign in today?"
+        },
+        {
+          "korean": "네, 모두 출勤표에 서명했습니다.",
+          "english": "Yes, everyone signed the sheet."
+        },
+        {
+          "korean": "출勤 기록부를 확인해 줄 수 있나요?",
+          "english": "Can you check the log book?"
+        },
+        {
+          "korean": "지금 확인하겠습니다.",
+          "english": "Sure, I'll check it now."
+        },
+        {
+          "korean": "누가 출근하지 않았나요?",
+          "english": "Who is missing from work?"
+        },
+        {
+          "korean": "존이 오늘 병가로 전화했습니다.",
+          "english": "John called in sick today."
+        },
+        {
+          "korean": "근무 시간을 어떻게 기록하나요?",
+          "english": "How do I log my hours?"
+        },
+        {
+          "korean": "전자 시간 시스템을 사용하세요.",
+          "english": "Use the electronic time system."
+        },
+        {
+          "korean": "출勤표가 업데이트되었나요?",
+          "english": "Is the attendance sheet updated?"
+        },
+        {
+          "korean": "몇 시간마다 업데이트됩니다.",
+          "english": "It's updated every few hours."
+        },
+        {
+          "korean": "회의 시간이 변경되었나요?",
+          "english": "Was the meeting time changed?"
+        },
+        {
+          "korean": "네, 이제 오후 3시입니다.",
+          "english": "Yes, it's now at 3:00 p.m."
+        },
+        {
+          "korean": "초과 근무 시간을 누가 기록하나요?",
+          "english": "Who logs the overtime hours?"
+        },
+        {
+          "korean": "매주 금요일 제가 기록합니다.",
+          "english": "I do that every Friday."
+        },
+        {
+          "korean": "오늘 일찍 퇴근할 수 있나요?",
+          "english": "Can we leave early today?"
+        },
+        {
+          "korean": "업무가 완료되었다면 가능합니다.",
+          "english": "Only if your work is done."
+        },
+        {
+          "korean": "다시 출근 기록을 해야 하나요?",
+          "english": "Should I clock in again?"
+        },
+        {
+          "korean": "아니요, 아침에 한 번만 하면 됩니다.",
+          "english": "No, just once in the morning."
+        },
+        {
+          "korean": "지각에 대한 규정은 무엇인가요?",
+          "english": "What's the protocol for lateness?"
+        },
+        {
+          "korean": "인사부와 상사에게 알려야 합니다.",
+          "english": "Inform HR and your supervisor."
+        },
+        {
+          "korean": "타이머는 어떻게 사용하나요?",
+          "english": "How do I use the timer?"
+        },
+        {
+          "korean": "도착 시 시작 버튼을 누르세요.",
+          "english": "Press start when you arrive."
+        },
+        {
+          "korean": "이번 주 일정이 준비되었나요?",
+          "english": "Is this week's schedule ready?"
+        },
+        {
+          "korean": "네, 게시판에 있습니다.",
+          "english": "Yes, it's on the notice board."
+        },
+        {
+          "korean": "휴식 시간도 기록해야 하나요?",
+          "english": "Do we log breaks as well?"
+        },
+        {
+          "korean": "네, 모든 휴식 시간을 기록하세요.",
+          "english": "Yes, log all breaks taken."
+        },
+        {
+          "korean": "왜 제가 결근으로 표시되었나요?",
+          "english": "Why was I marked absent?"
+        },
+        {
+          "korean": "어제 출근 기록을 하지 않았습니다.",
+          "english": "You didn't sign in yesterday."
+        },
+        {
+          "korean": "오늘 타임시트를 제출해야 하나요?",
+          "english": "Are time sheets due today?"
+        },
+        {
+          "korean": "네, 오후 5시까지 제출하세요.",
+          "english": "Yes, submit them by 5:00 p.m."
+        },
+        {
+          "korean": "근무 시간을 변경할 수 있나요?",
+          "english": "Can I switch my shift?"
+        },
+        {
+          "korean": "먼저 관리자와 확인하세요.",
+          "english": "Check with management first."
+        }
+      ]
+    }
+]

@@ -1,0 +1,143 @@
+[
+    {
+      "name": "직장 대화",
+      "sentences": [
+        {
+          "korean": "이 프로젝트에 대해 논의할 수 있을까요?",
+          "english": "Can we discuss this project?"
+        },
+        {
+          "korean": "함께 검토합시다.",
+          "english": "Yes, let's review it together."
+        },
+        {
+          "korean": "도움이 필요하신가요?",
+          "english": "Do you need any help?"
+        },
+        {
+          "korean": "묻는 것에 감사하지만 괜찮습니다.",
+          "english": "No, thank you for asking."
+        },
+        {
+          "korean": "회의는 언제 예정되어 있나요?",
+          "english": "When is the meeting scheduled?"
+        },
+        {
+          "korean": "내일 아침으로 예정되어 있습니다.",
+          "english": "It's set for tomorrow morning."
+        },
+        {
+          "korean": "이것을 더 자세히 설명해 주시겠습니까?",
+          "english": "Could you explain this further?"
+        },
+        {
+          "korean": "물론, 명확히 설명드리겠습니다.",
+          "english": "Sure, I can clarify it."
+        },
+        {
+          "korean": "오늘 일찍 퇴근해도 되나요?",
+          "english": "May I leave early today?"
+        },
+        {
+          "korean": "네, 괜찮습니다.",
+          "english": "Yes, that should be fine."
+        },
+        {
+          "korean": "이 파일들을 업데이트해 줄 수 있나요?",
+          "english": "Can you update these files?"
+        },
+        {
+          "korean": "정오까지 처리하겠습니다.",
+          "english": "I'll do it by noon."
+        },
+        {
+          "korean": "이것의 마감일은 언제인가요?",
+          "english": "What's the deadline for this?"
+        },
+        {
+          "korean": "마감일은 다음 금요일입니다.",
+          "english": "The deadline is next Friday."
+        },
+        {
+          "korean": "이 업무를 누가 이끌고 있나요?",
+          "english": "Who is leading this task?"
+        },
+        {
+          "korean": "마이클이 책임자입니다.",
+          "english": "Michael will be in charge."
+        },
+        {
+          "korean": "클라이언트에게 이메일을 보내야 하나요?",
+          "english": "Should I email the client?"
+        },
+        {
+          "korean": "네, 자세히 작성해 주세요.",
+          "english": "Yes, please ensure it's detailed."
+        },
+        {
+          "korean": "회의실이 비어 있나요?",
+          "english": "Is the conference room free?"
+        },
+        {
+          "korean": "오후 3시에 이용 가능합니다.",
+          "english": "It's available at 3:00."
+        },
+        {
+          "korean": "이것을 어떻게 작동시키나요?",
+          "english": "How do I operate this?"
+        },
+        {
+          "korean": "방법을 보여드리겠습니다.",
+          "english": "Let me show you how."
+        },
+        {
+          "korean": "회의를 연기할 수 있나요?",
+          "english": "Can we postpone our meeting?"
+        },
+        {
+          "korean": "그게 저에게 더 편합니다.",
+          "english": "That works better for me."
+        },
+        {
+          "korean": "보고서가 아직 준비되었나요?",
+          "english": "Are the reports ready yet?"
+        },
+        {
+          "korean": "곧 준비될 것입니다.",
+          "english": "They will be ready soon."
+        },
+        {
+          "korean": "휴식 시간은 언제인가요?",
+          "english": "What time is the break?"
+        },
+        {
+          "korean": "휴식은 오후 12시에 시작됩니다.",
+          "english": "Break starts at 12:00 p.m."
+        },
+        {
+          "korean": "공급업체에 전화해 줄 수 있나요?",
+          "english": "Could you call the supplier?"
+        },
+        {
+          "korean": "오늘 처리하겠습니다.",
+          "english": "I will handle it today."
+        },
+        {
+          "korean": "아이디어를 제안해도 될까요?",
+          "english": "May I suggest an idea?"
+        },
+        {
+          "korean": "당연히, 아이디어는 언제나 환영입니다.",
+          "english": "Absolutely, your ideas are welcome."
+        },
+        {
+          "korean": "이 데이터가 정확한가요?",
+          "english": "Is this data correct?"
+        },
+        {
+          "korean": "네, 모두 이중으로 확인했습니다.",
+          "english": "Yes, everything was double-checked."
+        }
+      ]
+    }
+]
